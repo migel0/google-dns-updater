@@ -1,5 +1,9 @@
 flask==1.1.1
 google-cloud-dns==0.31.0
 google-oauth==1.0.1
-google-auth==1.11.0
 python_dotenv==0.10.5
+google-api-python-client==1.10.0
+google-auth==1.19.2
+google-auth-httplib2==0.0.4
+google-cloud-trace==0.23.0
+google-cloud-logging==1.15.1
